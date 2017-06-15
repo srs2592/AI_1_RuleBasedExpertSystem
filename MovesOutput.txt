@@ -1,0 +1,204 @@
+Moves  Details
+
+Our Bot reached the Destination!!
+
+ ACTION		 at (X, Y)		
+ Start		 (3, 3)		
+ Rotate to		 0 Degrees		
+ Move		 (3, 4)		
+ Rotate to		 45 Degrees		
+ Move		 (4, 5)		
+ Move		 (5, 6)		
+ Rotate to		 45 Degrees		
+ Move		 (6, 6)		
+ Rotate to		 45 Degrees		
+ Rotate (2 Moves)		 45 Degrees		
+ Move		 (5, 7)		
+ Rotate to		 45 Degrees		
+ Rotate to		 45 Degrees		
+ Move		 (5, 8)		
+ Rotate to		 45 Degrees		
+ Move		 (6, 9)		
+ Move		 (7, 10)		
+ Rotate to		 45 Degrees		
+ Move		 (7, 11)		
+ Rotate to		 45 Degrees		
+ Move		 (6, 9)		
+ Move		 (7, 10)		
+ Move		 (8, 11)		
+ Move		 (9, 12)		
+ Move		 (10, 13)		
+ Rotate to		 45 Degrees		
+ Move		 (11, 13)		
+ Rotate to		 45 Degrees		
+ Move		 (12, 14)		
+ Move		 (13, 15)		
+ Rotate (2 Moves)		 45 Degrees		
+ Move		 (12, 16)		
+ Rotate to		 45 Degrees		
+ Move		 (13, 17)		
+ Move		 (14, 18)		
+ Move		 (15, 19)		
+ Move		 (16, 20)		
+ Rotate (2 Moves)		 45 Degrees		
+ Move		 (17, 19)		
+ Rotate to		 45 Degrees		
+ Rotate to		 45 Degrees		
+ Move		 (18, 19)		
+ Rotate to		 45 Degrees		
+ Move		 (16, 20)		
+ Rotate (2 Moves)		 45 Degrees		
+ Move		 (17, 19)		
+ Rotate to		 45 Degrees		
+ Move		 (18, 20)		
+ Move		 (19, 21)		
+ Move		 (20, 22)		
+ Rotate to		 45 Degrees		
+ Move		 (21, 22)		
+ Rotate to		 45 Degrees		
+ Move		 (19, 21)		
+ Move		 (20, 22)		
+ Move		 (21, 23)		
+ Move		 (22, 24)		
+ Move		 (23, 25)		
+ Move		 (24, 26)		
+ Move		 (25, 27)		
+ Rotate to		 0 Degrees		
+ Move		 (26, 27)		
+ Its End		 (26, 27)		
+ TOTAL MOVES =		 65		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
